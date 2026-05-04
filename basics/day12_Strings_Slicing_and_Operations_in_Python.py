@@ -26,6 +26,7 @@ print(fruit[0:-3]) # Negative Slicing ko Python is tarah interpret karta hein
 # print(fruit[0:len(fruit)-3])
 # print(fruit[0:2]) -> to ye sirf 0 aur 1 ki index position tak heen print karega 
 
+print("both negatives")
 print(fruit[-1:-3]) # It gives nothing 5-1 = 4 , 5-3 = 2
 
 print(fruit[-3:-1]) # Idhar ye print(fruit[2:4]) 2nd index se lekar 3rd index tak print karegi

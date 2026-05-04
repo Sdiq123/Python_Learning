@@ -1,5 +1,5 @@
 ''' Modules and Pip 
-* Reusing the Code whivh has already been written by the other person 
+* Reusing the Code which has already been written by the other person 
 * 2 Types Of Modules 
     (i) Built In Modules 
         Ye Modules Python Language ke saath heen Ship Hotey hein, Inhey aap ko externally install karney ki zaruarat nahi hein 
