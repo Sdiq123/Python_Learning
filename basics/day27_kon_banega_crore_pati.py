@@ -34,6 +34,7 @@ if user_input == 'yes':
     
 # My solution is this much itself, money you can add in each if , else statements , but this logic wont be valid for a wrong scenario, were suppose first answer is wrong
 # Then it should exit the loop, which it wont exit 
+# iska solution day 39 ke python fille main hein dekhlena....
 
 
     
