@@ -23,5 +23,21 @@ remove 3 random characters from start and end. Now remove the last letter and ap
 
 
 # do this excersise when you are revising ......
+# [1:] --> this is a slicing operation, which escapes from the first step 
+#-----------------------------------------------------------------------------------------
+#----------------------------My Solution-----------------------------
+#------------------------------------------------------------------------
+word = list(input("Enter a word you want to decode : "))
 
-
+if len(word) > 3:
+    first_word = word[0]
+    removed_first_word = word[1:]
+    print(removed_first_word)
+    w1 = removed_first_word.append(first_word)
+    print(w1)
+    # w1.insert(0,789)
+    # w1.append(321)
+    
+    
+    
+    
